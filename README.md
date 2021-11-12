@@ -1,1 +1,3 @@
 Tailwind animated navbar based on tutorial by fireship on youtube.
+
+The sidebar is done, now to implement the dashboard and darkmode....
